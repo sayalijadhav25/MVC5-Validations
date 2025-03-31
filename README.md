@@ -19,7 +19,7 @@ SQL Server (for database)
 
 Setup & Usage: 
 1. Clone the repository
-   git clone https://github.com/yourusername/MVC5-Validations.git
+   git clone(https://github.com/sayalijadhav25/MVC5-Validations.git)
    cd MVC5-Validations
 2. Open the project in Visual Studio.
 3. Update the database connection string in Web.config.
